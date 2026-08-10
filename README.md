@@ -81,6 +81,12 @@ Lazify ships a separate build per architecture — pick the one for your Mac:
 
 ### Windows
 
+> **Not out yet.** The Windows installer is built on Windows for its native
+> terminal module, so it follows shortly behind the macOS release. Watch
+> [Releases](https://github.com/Anuboost-Long/lazify-dist/releases) for it.
+
+When it lands:
+
 1. Download `Lazify Setup <version>.exe` from [Releases](https://github.com/Anuboost-Long/lazify-dist/releases).
 2. Run it. No admin rights needed — it installs to your user profile.
 3. Windows SmartScreen will likely warn about an unrecognised publisher the
